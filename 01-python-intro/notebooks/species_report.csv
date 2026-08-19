@@ -1,0 +1,4 @@
+species,total_penguins,average_body_mass,min_body_mass,max_body_mass,average_flipper_length,average_bill_length
+Gentoo,123,5076.02,3950.0,6300.0,217.19,47.5
+Chinstrap,68,3733.09,2700.0,4800.0,195.82,48.83
+Adelie,151,3700.66,2850.0,4775.0,189.95,38.79
