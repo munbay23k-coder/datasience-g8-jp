@@ -8,3 +8,16 @@ wheels/
 
 # Virtual environments
 .venv
+
+# macOS
+__MACOSX/
+.DS_Store
+
+# Datasets pesados
+data/license-plates/
+data/cifar-10-batches-py/
+data/cifar-10-python.tar.gz
+
+# Modelos entrenados
+models/*.pt
+models/*.pth
